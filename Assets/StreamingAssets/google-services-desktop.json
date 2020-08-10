@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8324107837",
+    "firebase_url": "https://instantchess-84ddf.firebaseio.com",
+    "project_id": "instantchess-84ddf",
+    "storage_bucket": "instantchess-84ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8324107837:android:471cf278650e85374be454",
+        "android_client_info": {
+          "package_name": "com.Kiraitami.InstantChess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8324107837-c9feu5k0edtr2q7ua7jih7t1nabjn5k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2WLf5lM0fICEAYpgcmP4BxcK05jvXPgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8324107837-c9feu5k0edtr2q7ua7jih7t1nabjn5k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
